@@ -1,4 +1,7 @@
 Hi,
 
 I wanted to create a repository where my work is displayed publicly.
-Right now, it only contains my works from a thesis and an internship.
+Bachelor Thesis folder contains codes for mathematical modeling of a distillation column operated with methanol-water. It also has controller actions.
+Internship folder has a pH controller code.
+They are all implemented in MATLAB.
+
